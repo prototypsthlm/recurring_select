@@ -1,3 +1,9 @@
+# NOTE
+
+This repository is intended as a temporary solution until(if?) there is a fix for Rails 5 in the forked repository. There is currently a pr at: [https://github.com/GetJobber/recurring_select/pull/115](https://github.com/GetJobber/recurring_select/pull/115)
+
+This gem is intended for use in Storholmen. [https://github.com/prototypsthlm/Storholmen-Direkt](https://github.com/prototypsthlm/Storholmen-Direkt)
+
 # Recurring Select
 
 [![Build Status](https://travis-ci.org/GetJobber/recurring_select.png?branch=master)](https://travis-ci.org/GetJobber/recurring_select) [![Code Climate](https://codeclimate.com/github/GetJobber/recurring_select.png)](https://codeclimate.com/github/GetJobber/recurring_select)
